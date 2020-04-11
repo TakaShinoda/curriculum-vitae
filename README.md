@@ -10,7 +10,7 @@
 |Speaker Deck|[https://speakerdeck.com/takashinoda](https://speakerdeck.com/takashinoda)|
 |Twitter|[https://twitter.com/tttttt_621_s](https://twitter.com/tttttt_621_s)|
 
-## School and Job history / 大学と職歴
+## School/Job history / 大学/職歴
 
 
 ## Summary / 概要
