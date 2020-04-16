@@ -1,7 +1,7 @@
 # Curriculum Vitae / 履歴書
 2020/04/12 更新
 
-## Personal information / 個人情報
+## Basic information/ 基本情報
 |||
 |---|---|
 |Name  |篠田 貴大 (Shinoda Takahiro) |
