@@ -10,7 +10,12 @@
 |Speaker Deck|[https://speakerdeck.com/takashinoda](https://speakerdeck.com/takashinoda)|
 |Twitter|[https://twitter.com/tttttt_621_s](https://twitter.com/tttttt_621_s)|
 
-## School/Job history / 大学/職歴
+## Job history / 職歴
+|期間|所属|
+|---|---|
+|~ 2020/03|宮崎大学大学院|
+|2020/04 ~ 現在|株式会社イデアレコード|
+
 
 
 ## Summary / 概要
