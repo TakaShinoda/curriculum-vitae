@@ -1,5 +1,5 @@
 # Curriculum Vitae / 履歴書
-2021/11/12 更新
+2021/12/03 更新
 
 ## Basic information/ 基本情報
 |||
