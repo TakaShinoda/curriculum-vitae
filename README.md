@@ -10,6 +10,7 @@
 |Blog  |[https://takashinoda.hatenablog.com](https://takashinoda.hatenablog.com/)  |
 |Wantedly|[https://www.wantedly.com/id/takahiro_shinoda_b](https://www.wantedly.com/id/takahiro_shinoda_b)|
 |LAPRAS|[https://lapras.com/public/tttttt_621_s](https://lapras.com/public/tttttt_621_s)|
+|Qiita|[https://qiita.com/tttttt_621_s](https://qiita.com/tttttt_621_s)|
 
 
 
