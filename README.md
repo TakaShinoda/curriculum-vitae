@@ -1,5 +1,5 @@
 # Curriculum Vitae / 履歴書
-2021/12/03 更新
+2021/12/11 更新
 
 ## Basic information/ 基本情報
 |||
@@ -10,6 +10,7 @@
 |Blog  |[https://takashinoda.hatenablog.com](https://takashinoda.hatenablog.com/)  |
 |Wantedly|[https://www.wantedly.com/id/takahiro_shinoda_b](https://www.wantedly.com/id/takahiro_shinoda_b)|
 |LAPRAS|[https://lapras.com/public/tttttt_621_s](https://lapras.com/public/tttttt_621_s)|
+|Zenn|[https://zenn.dev/taka_shino](https://zenn.dev/taka_shino)|
 |Qiita|[https://qiita.com/tttttt_621_s](https://qiita.com/tttttt_621_s)|
 
 
