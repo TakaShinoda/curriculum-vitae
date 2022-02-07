@@ -1,10 +1,11 @@
 # Curriculum Vitae / 履歴書
-2021/12/11 更新
+2022/02/08 更新
 
 ## Basic information/ 基本情報
 |||
 |---|---|
 |Name  |篠田 貴大 (Shinoda Takahiro) |
+|Web|[https://t621.vercel.app/](https://t621.vercel.app/)|
 |GitHub|[https://github.com/TakaShinoda](https://github.com/TakaShinoda)|
 |Twitter|[https://twitter.com/tttttt_621_s](https://twitter.com/tttttt_621_s)|
 |Blog  |[https://takashinoda.hatenablog.com](https://takashinoda.hatenablog.com/)  |
