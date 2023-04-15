@@ -8,6 +8,7 @@
 |Web|[https://t621.vercel.app/](https://t621.vercel.app/)|
 |GitHub|[https://github.com/TakaShinoda](https://github.com/TakaShinoda)|
 |Zenn|[https://zenn.dev/taka_shino](https://zenn.dev/taka_shino)|
+|Wantedly|[https://www.wantedly.com/id/takahiro_shinoda_b](https://www.wantedly.com/id/takahiro_shinoda_b)|
 
 ## Summary / 概要
 - ソフトウェアエンジニア
