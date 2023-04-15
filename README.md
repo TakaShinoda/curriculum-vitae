@@ -1,5 +1,5 @@
 # Curriculum Vitae / 履歴書
-2022/02/08 更新
+2023/04/15 更新
 
 ## Basic information/ 基本情報
 |||
@@ -29,7 +29,7 @@
 
 ## Job details / 仕事内容
 
-### 弁護士ドットコム株式会社: 2020/11/ ~ 
+### 弁護士ドットコム株式会社: 2021/11/ ~ 
 クラウドサイン事業本部
 
 
@@ -49,6 +49,7 @@
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - Vue.js
 
 
