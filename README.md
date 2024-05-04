@@ -1,5 +1,5 @@
 # Curriculum Vitae / 履歴書
-2023/04/15 更新
+2024/05/04 更新
 
 ## Basic information/ 基本情報
 |||
@@ -7,6 +7,7 @@
 |Name  |篠田 貴大 (Shinoda Takahiro) |
 |Web|[https://t621.vercel.app/](https://t621.vercel.app/)|
 |GitHub|[https://github.com/TakaShinoda](https://github.com/TakaShinoda)|
+|LinkedIn|[https://www.linkedin.com/in/takahiro-shinoda/](https://www.linkedin.com/in/takahiro-shinoda/)|
 |Zenn|[https://zenn.dev/taka_shino](https://zenn.dev/taka_shino)|
 |Wantedly|[https://www.wantedly.com/id/takahiro_shinoda_b](https://www.wantedly.com/id/takahiro_shinoda_b)|
 
